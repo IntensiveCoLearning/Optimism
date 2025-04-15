@@ -153,12 +153,12 @@ OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
 | [qiaopengjun5162](https://github.com/IntensiveCoLearning/Optimism/blob/main/qiaopengjun5162.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [StarryDesert](https://github.com/IntensiveCoLearning/Optimism/blob/main/StarryDesert.md) | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [debugzhao](https://github.com/IntensiveCoLearning/Optimism/blob/main/debugzhao.md) | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | |
-| [JacksonStack](https://github.com/IntensiveCoLearning/Optimism/blob/main/JacksonStack.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
+| [JacksonStack](https://github.com/IntensiveCoLearning/Optimism/blob/main/JacksonStack.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
 | [jjeejj](https://github.com/IntensiveCoLearning/Optimism/blob/main/jjeejj.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ |
 | [luffythink](https://github.com/IntensiveCoLearning/Optimism/blob/main/luffythink.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ |
-| [iossocket](https://github.com/IntensiveCoLearning/Optimism/blob/main/iossocket.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | |
+| [iossocket](https://github.com/IntensiveCoLearning/Optimism/blob/main/iossocket.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | ⭕️ | ⭕️ | ❌ | | | | | | | | |
 | [cherry-yl-sh](https://github.com/IntensiveCoLearning/Optimism/blob/main/cherry-yl-sh.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
-| [Dfbb7879](https://github.com/IntensiveCoLearning/Optimism/blob/main/Dfbb7879.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | |
+| [Dfbb7879](https://github.com/IntensiveCoLearning/Optimism/blob/main/Dfbb7879.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ |   | ⭕️ | ⭕️ | ❌ | | | | | | | | |
 | [DasNarrenschiff](https://github.com/IntensiveCoLearning/Optimism/blob/main/DasNarrenschiff.md) | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
 | [ChinesePaladin61](https://github.com/IntensiveCoLearning/Optimism/blob/main/ChinesePaladin61.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [sonedigo](https://github.com/IntensiveCoLearning/Optimism/blob/main/sonedigo.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
@@ -187,15 +187,16 @@ OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
 | [jiubate888](https://github.com/IntensiveCoLearning/Optimism/blob/main/jiubate888.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [Coooder-Crypto](https://github.com/IntensiveCoLearning/Optimism/blob/main/Coooder-Crypto.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | [yoow4536](https://github.com/IntensiveCoLearning/Optimism/blob/main/yoow4536.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
-| [Marcus-Chen98](https://github.com/IntensiveCoLearning/Optimism/blob/main/Marcus-Chen98.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ |   | ⭕️ | ❌ | | | | | | | | | | |
+| [Marcus-Chen98](https://github.com/IntensiveCoLearning/Optimism/blob/main/Marcus-Chen98.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ⭕️ |   | ❌ | | | | | | | | | | |
 | [foresteru](https://github.com/IntensiveCoLearning/Optimism/blob/main/foresteru.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | [YiShengYouNi](https://github.com/IntensiveCoLearning/Optimism/blob/main/YiShengYouNi.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [Thogsloc](https://github.com/IntensiveCoLearning/Optimism/blob/main/Thogsloc.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ❌ | | | | | | | |
 | [zedz](https://github.com/IntensiveCoLearning/Optimism/blob/main/zedz.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | |
-| [ChoeyGit](https://github.com/IntensiveCoLearning/Optimism/blob/main/ChoeyGit.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ⭕️ | ❌ | | | | |
+| [ChoeyGit](https://github.com/IntensiveCoLearning/Optimism/blob/main/ChoeyGit.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ |   | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ⭕️ | ❌ | | | | |
 | [Tianxibi-web3](https://github.com/IntensiveCoLearning/Optimism/blob/main/Tianxibi-web3.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | |
-| [183Aaros](https://github.com/IntensiveCoLearning/Optimism/blob/main/183Aaros.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ⭕️ |   | ✅ | ✅ | ⭕️ | ❌ | | | | | | | | |
+| [183Aaros](https://github.com/IntensiveCoLearning/Optimism/blob/main/183Aaros.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ⭕️ | ⭕️ | ✅ | ✅ | ❌ | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
