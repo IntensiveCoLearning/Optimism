@@ -43,7 +43,8 @@ Optimism, DAO, Layer2, Governance
 
 ## 社群
 
-学习交流 Telegram：https://t.me/LXDAO/18240
+Telegram: https://t.me/LXDAO/18240
+
 OP 中文力量 Telegram: https://t.me/optimism_cn/1
 
 ## 学习资料/课程安排
